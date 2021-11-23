@@ -2,6 +2,5 @@
 
 Flutter Bmi Calculator
 
-with beautiful UI design from dribble.com 
+With beautiful UI design from dribble.com 
 
-## Getting Started
