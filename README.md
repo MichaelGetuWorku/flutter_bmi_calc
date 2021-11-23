@@ -1,6 +1,6 @@
 # bmi_calc
 
-Flutter Bim Calculator
+Flutter Bmi Calculator
 
 with beautiful UI design from dribble.com 
 
